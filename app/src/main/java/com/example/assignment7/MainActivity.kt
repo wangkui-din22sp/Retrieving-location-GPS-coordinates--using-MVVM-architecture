@@ -46,7 +46,7 @@ fun Bmi(myViewModel: MyViewModel = viewModel()) {
 
     Column {
         Text(
-            text = stringResource(R.string.hu_yiming),
+            text = stringResource(R.string.wangkui),
             fontSize = 24.sp,
             color = MaterialTheme.colorScheme.primary,
             textAlign = TextAlign.Center,
